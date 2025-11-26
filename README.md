@@ -29,9 +29,9 @@ The goal is to understand which courses are most popular, pricing trends, and co
 ---
 
 ## How to Explore
-1. Open `data/Online_Courses.xlsx` to explore raw data and Pivot Tables  
-2. Review charts in `images/` for insights and visualizations  
-3. Watch the dashboard demo in `videos/` if available  
+1. Open the datasets in `data/` to explore raw data and Pivot Tables.  
+2. Review the images in `images/` for visual insights and charts.  
+3. Watch the dashboard or analysis demo in `videos/Media1.mp4`.  
 
 ---
 
@@ -44,8 +44,16 @@ The goal is to understand which courses are most popular, pricing trends, and co
 ---
 
 ## Visual Examples
-![Top Courses](images/Top_Courses.png)  
-*Figure 1: Top 10 courses by number of subscribers.*
+![Course Screenshot 1](images/Screenshot%202025-08-21%20151327.jpg)  
+*Figure 1: Overview of course statistics and top courses.*
 
-![Course Distribution](images/Course_Distribution.png)  
+![Course Screenshot 2](images/Screenshot%202025-08-21%20151643.jpg)  
 *Figure 2: Distribution of courses by subject and level.*
+
+---
+
+## Video Demo
+[Watch Analysis Video](videos/Media1.mp4)  
+*Click to view the walkthrough of the online courses dataset analysis.*
+
+ر
